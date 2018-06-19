@@ -1,0 +1,72 @@
+﻿body {
+    font-family: Verdana, Arial;
+    font-size: 9pt;
+    margin: 0px;
+}
+
+.bodycontainer {
+    position: absolute;
+    width: 100%;
+}
+
+.divcontent {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /*Beloww CSS line is for aligning contents at center of page*/
+    margin: 0 auto;
+    width: 632px;
+    height: 560px;
+    padding: 60px 0px 0px 27px;
+}
+
+.tableStyle {
+    background-color: #cccccc;
+}
+
+.styleTable {
+    border-width: 1px 1px 1px 1px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    border-style: ridge;
+    border-color: black;
+    clear: both;
+    margin: 0;
+    padding: 0;
+}
+
+.textStyle1 {
+    width: 240px;
+}
+
+.textStyle {
+    width: 345px;
+}
+
+.buttonStyle {
+    width: 80px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.trStyle {
+    height: 30px;
+}
+
+.trStyleDiv {
+    height: 20px;
+}
+
+.heading {
+    background-color: #D7D8D2;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.txt_box {
+    border: #666666 1px solid;
+    color: #333333;
+    height: 20px;
+    padding: 0 3px;
+}
